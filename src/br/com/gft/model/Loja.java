@@ -60,7 +60,7 @@ public class Loja {
 		for ( int i = 0; i < livros.size(); ++i) {
 			System.out.println("Titulo: " + livros.get(i).getNome() + ", preço: " + livros.get(i).getPreco() + ", quantidade: " + livros.get(i).getQtd()+" em estoque."); 
 		}  
-		}		
+		}
 	}
 		
 	public void listaVideoGame() {
